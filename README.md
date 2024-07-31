@@ -1,1 +1,1 @@
-# cars_dataset_visualization
+I have used a CSV file called 'cars' as my dataset  which includes columns for mpg, cylinders, cubic inches, hp, weightlbs, time to 60, year, and brand. I have used NumPy, Pandas, Matplotlib, and Seaborn to visualize the data.
